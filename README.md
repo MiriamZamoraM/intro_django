@@ -16,3 +16,5 @@ Esta es la otra forma (pipenv), para este caso, al instalar la librería, crear�
 - Primero se debe instalar la librería: “pip install pipenv”
 
 - Para activar se usa el siguiente comando “pipenv shell”
+
+	[DRF](https://www.djangoproject.com/download/)
