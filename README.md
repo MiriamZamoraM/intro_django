@@ -9,10 +9,10 @@ Abrir la terminal y dirigirse a la carpeta creada en el primer paso
 
 
 Instalar el entorno virtual, este se instalará mediante el siguiente comando (venv) y para activarlo se usa el segundo comando:
-a. “python -m venv env”
-b. “.\env\Scripts\activate”
+- “python -m venv env”
+- “.\env\Scripts\activate”
  
 Esta es la otra forma (pipenv), para este caso, al instalar la librería, creará el entorno virtual con el nombre de la carpeta creada
-a. Primero se debe instalar la librería: “pip install pipenv”
+- Primero se debe instalar la librería: “pip install pipenv”
 
-b. Para activar se usa el siguiente comando “pipenv shell”
+- Para activar se usa el siguiente comando “pipenv shell”
